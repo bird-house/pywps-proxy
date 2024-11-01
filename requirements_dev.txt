@@ -9,3 +9,4 @@ bump2version
 twine
 mock
 tornado>=6.3.3  # not directly required, pinned by Snyk to avoid a vulnerability
+waitress>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
